@@ -139,13 +139,13 @@ python run_local_demo.py
 
 Add these bullet points to your resume under **Projects**:
 
-> **Urban Ride-Hailing Supply-Demand & Trip Cancellation Analytics** | *PostgreSQL 16, pgAdmin 4, Advanced SQL*  
-> - Designed and normalized a 4-table relational database schema in **PostgreSQL 16** tracking **6,500+ trip requests** and 150 drivers across 15 urban zones.  
+> **Urban Ride-Hailing Supply-Demand & Trip Cancellation Analytics** | *MySQL 8.0, PostgreSQL 16, Advanced SQL*  
+> - Designed and normalized a 4-table relational database schema tracking **6,500+ trip requests** and 150 drivers across 15 urban zones.  
 > - Conducted comprehensive data quality audits verifying zero primary key duplicates, chronological ordering, and referential integrity.  
 > - Formulated advanced analytical queries utilizing **Window Functions (`LAG`, `NTILE`, `DENSE_RANK`), CTEs, and conditional aggregations** to isolate supply bottlenecks.  
 > - Identified the **7-minute wait-time tipping point**, proving passenger cancellations spike by 150%+ when driver ETA exceeds 6 minutes.  
 > - Quantified **\$614,000+ in revenue leakage** from unfulfilled peak-hour rides and formulated 3 prioritized operational recommendations to improve fulfillment by 8.5%.  
-> - **GitHub:** *github.com/your-username/ride-hailing-sql-analytics*
+> - **GitHub:** *github.com/jayasrianamdasu/ride-hailing-sql-analytics*
 
 ---
 
