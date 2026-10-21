@@ -1,0 +1,16 @@
+location_id,zone_name,borough,zone_type,avg_traffic_index
+101,Indira Gandhi International Airport,South West,Airport,8.9
+102,Cyber City Business District,Central Tech,Commercial Hub,9.2
+103,Connaught Place Central Market,Central,Commercial Hub,8.5
+104,DLF Phase 5 Luxury Sector,East Sector,Residential,4.5
+105,Sector 62 IT & Media Park,East Tech,Commercial Hub,7.8
+106,Hauz Khas Lifestyle Village,South,Commercial Hub,7.2
+107,Dwarka Sector 21 Transit Hub,South West,Transit Hub,8.1
+108,Rohini Residential Sector 14,North,Residential,5.0
+109,Noida Expressway Tech Corridor,East Tech,Commercial Hub,8.8
+110,Saket District Centre & Malls,South,Commercial Hub,7.9
+111,Vasant Kunj Residential Enclave,South West,Residential,4.8
+112,Aerocity Hospitality District,South West,Commercial Hub,6.5
+113,Rajouri Garden Commercial Ring,West,Commercial Hub,7.6
+114,Greater Kailash Residential Hub,South,Residential,5.2
+115,New Delhi Railway Station Gateway,Central,Transit Hub,9.5
